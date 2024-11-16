@@ -1,5 +1,11 @@
 # pandoc-markdown-template
 
+<p align="center">
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/fc2f9d48-eba4-4cfa-92da-7539f5ea4567">
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/a2be7b4c-ac19-4105-bf03-d28b84f2d9b8">
+  <img width="32%" alt="image" src="https://github.com/user-attachments/assets/2e7ccc0d-19ea-414d-865a-9b6f15ea1260">
+</p>
+
 ## Introduction
 
 This template allows you to write documents in markdown extended with LaTeX, and convert them to gorgeous PDFs using pandoc. It is based on the [Eisvogel template](https://github.com/Wandmalfarbe/pandoc-latex-template).

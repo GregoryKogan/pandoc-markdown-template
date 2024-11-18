@@ -1,9 +1,9 @@
 [metadata]
-title    = "Подготовка к ЕГЭ по информатике"
-subtitle = "Учебное пособие"
-author   = ["Когановский Г.И."]
-date     = "Осень 2024"
-lang     = "ru"
+title    = "pandoc-markdown-template"
+subtitle = "template repository"
+author   = ["Gregory Koganovsky"]
+date     = "Winter 2024"
+lang     = "en"
 
 [metadata.title-page]
 title-page  = true
